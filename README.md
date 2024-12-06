@@ -36,7 +36,7 @@ To run this app locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://https://github.com/VenkyRock143/react-albums
+git clone https://github.com/VenkyRock143/react-albums
 
 step 2:
 npm install
